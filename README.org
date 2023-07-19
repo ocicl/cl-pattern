@@ -1,0 +1,9 @@
+* cl-pattern
+
+ML-like Pattern Matching for Common Lisp
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/arielnetworks/cl-pattern.git |
+| commit  | 4717b69                                             |
+| systems | cl-pattern                                          |
+|---------+-----------------------------------------------------|
